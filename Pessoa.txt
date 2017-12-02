@@ -1,0 +1,14 @@
+[
+
+
+{ "nome": "Rodolfo Hugo",
+  "nascimento": "1997-10-1",
+  "email": "hugo12@hotmail.com"
+  },
+
+ { "nome": "Jose da Silva",
+  "nascimento": "1998-5-10",
+  "email": "jose100@hotmail.com"
+  }
+
+  ]
